@@ -1,5 +1,7 @@
 # Google Local Market Sales Analysis
 
+At work, one of my regular tasks involves conducting case studies on the data collected from small-scale businesses in the local Indian market. The services provided encompass data cleaning, exploratory data analysis (EDA), extract-transform-load (ETL) processes, sales forecasting, generating and visualizing insights, and developing effective data-driven solutions.
+
 ## Google Data Compliance ©
 
 <img align="center" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_2015_logo.svg/2560px-Google_2015_logo.svg.png"/>
