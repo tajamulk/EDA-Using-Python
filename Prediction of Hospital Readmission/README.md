@@ -1,4 +1,4 @@
-# Prediction on Patient Readmission
+# Prediction of Patient Readmission
 
 ###
 
