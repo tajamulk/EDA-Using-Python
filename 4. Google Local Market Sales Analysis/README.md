@@ -1,4 +1,4 @@
-# Google Local Market Sales Analysis
+# Google Local Market Sales Analysis 🥇
 
 At work, one of my regular tasks involves conducting case studies on the data collected from small-scale businesses in the local Indian market. The services provided encompass data cleaning, exploratory data analysis (EDA), extract-transform-load (ETL) processes, sales forecasting, generating and visualizing insights, and developing effective data-driven solutions.
 
