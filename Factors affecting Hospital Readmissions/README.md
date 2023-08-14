@@ -2,7 +2,9 @@
 
 ###
 
-Objective of this project is to create a report that covers the following:
+Dataset Source: https://www.kaggle.com/code/iabhishekofficial/prediction-on-hospital-readmission
+
+The objective of this project is to create a report that covers the following:
 
 * What is the most common primary diagnosis by age group?
 * Some doctors believe diabetes might play a central role in readmission. Explore the effect of a diabetes diagnosis on readmission rates.
